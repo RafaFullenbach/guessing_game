@@ -1,6 +1,9 @@
 # Guessing game
 
 The goal of the project is to learn about advanced Javascript.
+
+https://github.com/RafaFullenbach/guessing_game/assets/63618616/f662dc14-d6f1-41f4-bce7-a1b4e6e35e66
+
 ## Apprenticeship
 
 - DOM manipulation;
